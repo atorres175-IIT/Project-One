@@ -259,6 +259,5 @@ form input{
 }
 input[type=submit]{
   display: block;
-  block-size: 40px;
   margin: 30px auto;
 }
